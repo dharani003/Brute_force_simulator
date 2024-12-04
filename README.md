@@ -30,8 +30,8 @@ This C++ project simulates a brute-force attack on a password-protected system. 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/brute-force-simulator.git
-   cd brute-force-simulator
+   git clone [https://github.com/yourusername/brute-force-simulator.git](https://github.com/dharani003/Brute_force_simulator.git)
+   cd Brute_force_simulator
    ```
 
 2. **Compile the program:**
